@@ -1,5 +1,5 @@
 <div>
-  <img src="./header_1.jpg" alt="Header IMAGE" />
+  <img src="./header_1.png" alt="Header IMAGE" />
 </div>
 ## Hi there 👋
 
