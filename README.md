@@ -1,9 +1,7 @@
 <div>
   <img src="./header_1.png" alt="Header IMAGE" />
 </div>
-## Hi there 👋
 
-<!--
 **stefan-dev813/stefan-dev813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
